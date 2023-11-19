@@ -5,7 +5,7 @@ import reportWebVitals from "./reportWebVitals";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <h1>こんにちわ</h1>
+    <h1>クソバカこーせい</h1>
   </React.StrictMode>
 );
 
